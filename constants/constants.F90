@@ -19,7 +19,7 @@
 
 !! \brief Defines useful constants for Earth. Constants are defined as real
 !! parameters. Constants are accessed through the "use" statement.
-!! liao
+!! liao liao
 !! \author Bruce Wyman <Bruce.Wyman@noaa.gov>
 module constants_mod
 
